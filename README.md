@@ -10,5 +10,5 @@
 - Git
 
 ## Связаться со мной
--тг @Vladosik229
--vladworking5@gmail.com
+- TG: @Vladosik229
+- Email: vladworking5@gmail.com
