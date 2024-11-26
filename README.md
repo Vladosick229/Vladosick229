@@ -9,6 +9,8 @@
 - Python
 - Git
 - C++
+- Java Script
+- Yopta Script
 ## Связаться со мной
 - TG: @Vladosik229
 - Email: vladworking5@gmail.com
